@@ -571,7 +571,7 @@ textarea {
 .copyright {
     text-align: center;
     margin-top: 40px;
-    font-size: 0.8rem;
+    font-size: 1.1rem;
     color: #a0a0a0;
 }
 
@@ -717,7 +717,7 @@ footer {
     .profile-image {
         float: none;
         display: block;
-        margin: 2rem auto;
+        margin: 2rem 3rem;
         max-width: 85%;
     }
 
